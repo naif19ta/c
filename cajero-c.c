@@ -16,8 +16,8 @@ Contraseña 199485
 
 
 //REGISTRO	
-#define sradilia 3213104656
-#define ninasandra 3168301368
+#define sradilia 3213104651
+#define ninasandra 3168301361
 #define yo 3134689977
 //REGISTRO
 
